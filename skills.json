@@ -1,0 +1,46 @@
+[
+  {
+    "category_name": "Programming Language",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Kotlin",
+      "PYTHON"
+    ]
+  },
+  {
+    "category_name": "Data Structure",
+    "skills": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Queue",
+      "Tri",
+      "Heap",
+      "Hash Tabble"
+    ]
+  },
+  {
+    "category_name": "Algorithm",
+    "skills": [
+      "Bubble Sort",
+      "Quick Sort",
+      "Floodfill",
+      "DFS",
+      "BFS",
+      "KMP and Robincurp Algorithm",
+      "Z's Algorithm",
+      "LIS , LCS",
+      "Longest Path",
+      "Knapsack",
+      "Dinamic Programming",
+      "N Queen Problem",
+      "Halminton Cycle",
+      "Halfman coding",
+      "Minimum Spanning Tree and Primse Algorithm",
+      "Sortest  Path Diakastra",
+      "Seive "
+    ]
+  }
+]
