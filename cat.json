@@ -1,5 +1,77 @@
 {
-    "url" : "https://i.ibb.co/sgzNMxF/20201014-162302.jpg",
-    "name": "Mahibul Hassan Emon",
-    "description": "Hey guys i am Mahibul Hassan... New Android Developer... I am starting my work 2 Year ago... Now I am Trying to do Best. And want to make new Project....I am Also a Competative Programmer.. I have 400 + Solving on online Judge.."
-  }
+
+  "recipes": [
+
+    {
+
+      "title": "Pasta Carbonara",
+
+      "description": "Creamy pasta dish with bacon and cheese.",
+
+      "ingredients": ["spaghetti", "bacon", "egg", "cheese"]
+
+    },
+
+    {
+
+      "title": "Caprese Salad",
+
+      "description": "Simple and refreshing salad with tomatoes, mozzarella, and basil.",
+
+      "ingredients": ["tomatoes", "mozzarella", "basil"]
+
+    },
+
+    {
+
+      "title": "Banana Smoothie",
+
+      "description": "Healthy and creamy smoothie with bananas and milk.",
+
+      "ingredients": ["bananas", "milk"]
+
+    },
+
+    {
+
+      "title": "Chicken Stir-Fry",
+
+      "description": "Quick and flavorful stir-fried chicken with vegetables.",
+
+      "ingredients": ["chicken breast", "broccoli", "carrot", "soy sauce"]
+
+    },
+
+    {
+
+      "title": "Grilled Salmon",
+
+      "description": "Delicious grilled salmon with lemon and herbs.",
+
+      "ingredients": ["salmon fillet", "lemon", "olive oil", "dill"]
+
+    },
+
+    {
+
+      "title": "Vegetable Curry",
+
+      "description": "Spicy and aromatic vegetable curry.",
+
+      "ingredients": ["mixed vegetables", "coconut milk", "curry powder"]
+
+    },
+
+    {
+
+      "title": "Berry Parfait",
+
+      "description": "Layered dessert with fresh berries and yogurt.",
+
+      "ingredients": ["berries", "yogurt", "granola"]
+
+    }
+
+  ]
+
+}
